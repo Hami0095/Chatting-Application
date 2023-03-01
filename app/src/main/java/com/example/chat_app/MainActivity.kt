@@ -1,6 +1,7 @@
 package com.example.chat_app
 
 import android.os.Bundle
+import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageButton
 import android.widget.Toast
